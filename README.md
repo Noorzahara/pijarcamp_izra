@@ -1,6 +1,8 @@
 # pijarcamp_izra
 pijarcamp
+TUGAS MEMBUAT DATABASE pijarcamp https://github.com/Noorzahara/pijarcamp_izra/blob/master/pijarcamp.sql
 
+TUGAS MEMBUAT CURD
 ![all text](https://github.com/Noorzahara/pijarcamp_izra/blob/master/web1.jpg)
 ![all text](https://github.com/Noorzahara/pijarcamp_izra/blob/master/web2.png)
 ![all text](https://github.com/Noorzahara/pijarcamp_izra/blob/master/web3.jpg.png)
